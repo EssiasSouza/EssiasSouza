@@ -9,6 +9,7 @@
 
 I have been working in the Information Technology field for almost 20 years. I started as a hardware technician, then worked as a Helpdesk/Support Analyst, then as an Infrastructure Analyst and finally I landed a position as a Linux SysAdmin focused on Robotic Process Automation at Corpay.
 
+- Complex Problem Solver
 - Devops Engineering
 - Cloud Computing Architecture and Design
 - SRE - Site Reliability Engineering
