@@ -7,10 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/essias/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/essiassouza) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:contato@essias.com.br)
 </div>
 
-I have been working in the Information Technology field for almost 20 years. I started as a Hardware Technician, then worked as a Helpdesk/Support Analyst, then worked as an Infrastructure Analyst. Finally I started in a Linux SysAdmin position focused on Robot Process Automation at Corpay.
+I have been working in the Information Technology field for almost 20 years. I started as a hardware technician, then worked as a Helpdesk/Support Analyst, then as an Infrastructure Analyst and finally I landed a position as a Linux SysAdmin focused on Robotic Process Automation at Corpay.
 
 - Devops Engineering
-- Cloud Computing
+- Cloud Computing Architecture and Design
 - SRE - Site Reliability Engineering
 - RPA - Robot Process Automation
 - Linux SysAdmin
@@ -19,9 +19,7 @@ I have been working in the Information Technology field for almost 20 years. I s
 ---
 
 <div>
-   
-   
-   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
