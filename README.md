@@ -5,7 +5,6 @@
 # 🎹👨‍💻 This is Essias Souza!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/essias/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/essiassouza) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:contato@essias.com.br)
-</div>
 
 I have been working in the Information Technology field for almost 20 years. I started as a hardware technician, then worked as a Helpdesk/Support Analyst, then as an Infrastructure Analyst and finally I landed a position as a Linux SysAdmin focused on Robotic Process Automation at Corpay.
 
