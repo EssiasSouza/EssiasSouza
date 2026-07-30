@@ -1,107 +1,105 @@
-## Hi there 👋
+# Hi there! I'm Essias Souza 👋
 
-# 🎹👨‍💻 This is Essias Souza!
+### Senior Cloud Analyst | DevOps Engineer | SRE | Platform Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/essias/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/essiassouza) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:contato@essias.com.br)
+I design, automate and operate cloud infrastructure focused on reliability, security and scalability.
 
-I have been working in the Information Technology field for more than 20 years. I started as a hardware technician, then worked as a Helpdesk/Support Analyst, then as an Infrastructure Analyst and finally I landed a position as a Platform Engineer.
-
-- Complex Problem Solver
-- Devops Engineering
-- Cloud Computing Architecture and Design
-- SRE - Site Reliability Engineering
-- RPA - Robot Process Automation
-- Linux SysAdmin
-- MBA IT Project Manager
+Currently working with Cloud Platforms, Kubernetes, Infrastructure as Code and Automation, helping teams build resilient and secure environments.
 
 ---
 
-<div>
-## 🛠️ Skills
+## 🚀 About Me
 
-### ☁️ Cloud
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40"/>&nbsp;
-</p>
-
-### ☸️ Containers & DevOps
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" width="40" height="40"/>&nbsp;
-</p>
-
-### 💻 Programming & Automation
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" width="40" height="40"/>&nbsp;
-</p>
-
-### 🐧 Operating Systems
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" width="40" height="40"/>&nbsp;
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
-</p>
-
-### 🖥️ Infrastructure
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vsphere/vsphere-line.svg" title="VMware vSphere" width="40" height="40"/>&nbsp;
-</p>
-
-### 🔀 Version Control
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
-</p>
-## Skills in
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vsphere/vsphere-line.svg" title="vSphere" alt="vSphere" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Red Hat" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
-</div>
+- ☁️ Multi-cloud: Google Cloud, AWS, Azure and Oracle Cloud
+- ☸️ Kubernetes
+- 🔐 Infrastructure Security and PCI-DSS
+- ⚙️ Infrastructure as Code with Terraform
+- 🤖 Automation with Python, Bash and CI/CD
+- 🐧 Linux enthusiast
+- 📚 Lifelong learner
 
 ---
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=essiassouza&show_icons=true&theme=aura&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=essiassouza&show_icons=true&show_icons=true&theme=aura&count_private=true" />
-</div>
+## ☁️ Cloud
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="45"/>
+</p>
+
+## ☸️ DevOps & Platform
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" width="45"/>
+</p>
+
+## 💻 Programming
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45"/>
+</p>
+
+## 🐧 Linux
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="45"/>
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| Kubernetes | Cluster automation, Helm and GitOps |
+| Terraform | Infrastructure as Code examples |
+| Python | Cloud and DevOps automation |
+| GCP | Google Cloud architecture and security |
+| AWS | Cloud automation |
+| OCI | Oracle Cloud AI and Infrastructure |
+
+---
+
+# 📜 Certifications
+
+- Technology in Devops
+- Postgrade in Projects and Archtectures in Cloud Computing
+- MBA - IT Project Management
+
+---
+
+# 🌎 Languages
+
+- Portuguese 🇧🇷 Native
+- Spanish 🇪🇸 Fluent
+- English 🇺🇸 Intermediate
+- French, Catalan and Finnish in course
+
+---
+
+# 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/essias/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/essiassouza)
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:contato@essias.com.br)
+
